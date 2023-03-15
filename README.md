@@ -11,8 +11,9 @@
   <img align="center" alt="Wed-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wed-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wed-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Wed-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/3ohhwDzC1GWL6Bq1Lq/giphy.gif">
+  <img align="center" alt="Wed-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Wed-Delphi" height="30" width="30" src="https://img.icons8.com/officel/1x/delphi-ide.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/3ohhwDzC1GWL6Bq1Lq/giphy.gif">
 </div>
   
   ##
